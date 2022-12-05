@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EVoldum
 - 👀 I’m interested in embedded, backend and iot programming. I have some experience with C++, Arduino, PHP, JS, HTML/CSS
-- 🌱 I’m currently learning C++, ESP-IDF, Python
+- 🌱 I’m currently learning C++, Python
 - 📫 How to reach me: eirikvoldum@gmail.com
 
 <!---
